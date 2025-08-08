@@ -25,4 +25,4 @@ jobs:
           username: root
           password: chocolatine31
           source: "*"
-          target: /var/www
+          target: /var/www/html
