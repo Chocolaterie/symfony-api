@@ -23,6 +23,6 @@ jobs:
         with:
           host: 165.232.147.139
           username: root
-          password: Chocolatine31
+          password: 41eed8d17284a0b890cbd50b25
           source: "*"
           target: /var/www
